@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Notes</title>
-    <link>http://john-sharp.github.io/my-notes/</link>
+    <link>/</link>
     <description>Recent content on My Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Oct 2016 08:02:09 +0100</lastBuildDate>
-    <atom:link href="http://john-sharp.github.io/my-notes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>stocks for the long run 1</title>
-      <link>http://john-sharp.github.io/my-notes/post/stocks-for-the-long-run-1/</link>
+      <link>/post/stocks-for-the-long-run-1/</link>
       <pubDate>Fri, 21 Oct 2016 08:02:09 +0100</pubDate>
       
-      <guid>http://john-sharp.github.io/my-notes/post/stocks-for-the-long-run-1/</guid>
+      <guid>/post/stocks-for-the-long-run-1/</guid>
       <description>&lt;p&gt;This is a place holder for notes on Stocks for the Long Run chapter 1.&lt;/p&gt;
 
 &lt;ul&gt;
